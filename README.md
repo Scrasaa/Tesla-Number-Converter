@@ -8,3 +8,7 @@
 - 10000001, would be a valid input and change the number to 20000002
 - 555 turns into 111, 888 into 777
 - Feel free to experiment lol
+
+It is a cycle except for 3, 6 and 9
+
+- 3 becomes 6, 6 becomes 9 and **9 is always 9**.
