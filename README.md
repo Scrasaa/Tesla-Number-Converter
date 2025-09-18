@@ -12,3 +12,6 @@
 It is a cycle except for 3, 6 and 9
 
 - 3 becomes 6, 6 becomes 9 and **9 is always 9**.
+- 
+<img width="539" height="78" alt="image" src="https://github.com/user-attachments/assets/178fc01c-443f-40d0-b474-719ab6976161" />
+- S(x), where x is the target number and S symbolizing to get the digital root
