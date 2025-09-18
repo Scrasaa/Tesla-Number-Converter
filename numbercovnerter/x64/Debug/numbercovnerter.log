@@ -1,4 +1,0 @@
-﻿  numbercovnerter.cpp
-C:\Users\scras\source\repos\numbercovnerter\numbercovnerter\numbercovnerter.cpp(25,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-C:\Users\scras\source\repos\numbercovnerter\numbercovnerter\numbercovnerter.cpp(28,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-  numbercovnerter.vcxproj -> C:\Users\scras\source\repos\numbercovnerter\x64\Debug\numbercovnerter.exe
